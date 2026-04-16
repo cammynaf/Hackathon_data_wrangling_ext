@@ -1,0 +1,161 @@
+hh_id,child_id,age_months,sex,rdt_result,microscopy_result,hb_g_dl,slept_under_net,fever_last_2weeks
+HH094,CH001,58,male,negative,not done,10.9,Y,NA
+HH042,CH002,57,99,negative,negative,8.4,No,yes
+HH025,CH003,51,male,negative,negative,11.8,,Yes
+HH041,CH004,33,99,negative,negative,9.5,,No
+HH021,CH005,52,M,,negative,8.4,99,Yes
+HH067,CH006,25,99,negative,negative,13.2,,Yes
+HH069,CH007,56,female,negative,positive,12.7,No,Yes
+HH054,CH008,22,female,negative,negative,13.5,N,no
+HH064,CH009,130,99,negative,not done,11.8,Yes,yes
+HH036,CH010,56,F,negative,not done,8.6,,no
+HH037,CH011,12,99,negative,negative,11.5,99,Yes
+HH076,CH012,31,female,pos,not done,2.5,Yes,yes
+HH035,CH013,25,male,negative,not done,14.2,Yes,no
+HH083,CH014,39,F,negative,negative,12.9,Y,no
+HH100,CH015,59,female,positive,,13.7,Y,no
+HH002,CH016,51,F,negative,not done,12.5,Yes,yes
+HH003,CH017,57,M,neg,negative,10,,Yes
+HH059,CH018,25,99,neg,positive,9.5,,no
+HH076,CH019,33,99,negative,negative,14.3,No,Yes
+HH022,CH020,41,female,negative,negative,15,Yes,yes
+HH061,CH021,25,female,negative,positive,11.2,N,NA
+HH099,CH022,37,male,negative,negative,11.3,No,Yes
+HH009,CH023,16,female,negative,not done,13.5,Yes,Yes
+HH033,CH024,33,F,negative,not done,11.5,Yes,No
+HH068,CH025,49,F,negative,negative,14.1,N,NA
+HH022,CH026,51,M,neg,negative,9.5,Yes,yes
+HH081,CH027,32,male,negative,positive,8.9,Y,NA
+HH027,CH028,16,female,,negative,14,No,yes
+HH044,CH029,58,F,negative,negative,10.8,,yes
+HH051,CH030,43,female,pos,negative,10.4,No,Yes
+HH076,CH031,22,male,neg,negative,11.6,Y,Yes
+HH080,CH032,35,99,positive,negative,11.9,Yes,no
+HH084,CH033,34,female,negative,negative,9.4,99,NA
+HH028,CH034,53,male,negative,negative,13.5,99,yes
+HH075,CH035,46,F,negative,not done,10.8,99,yes
+HH082,CH036,46,female,negative,not done,13.4,Y,No
+HH099,CH037,57,male,pos,negative,12.8,Y,yes
+HH088,CH038,36,F,negative,negative,11.1,N,no
+HH064,CH039,25,male,negative,negative,10.1,,NA
+HH003,CH040,26,F,negative,not done,12.3,Y,NA
+HH030,CH041,21,M,pos,not done,12.1,No,No
+HH078,CH042,34,male,neg,not done,9.4,Y,no
+HH073,CH043,33,F,positive,not done,12.1,Yes,NA
+HH019,CH044,6,F,negative,positive,10.9,N,Yes
+HH007,CH045,10,female,neg,negative,12.1,Y,yes
+HH070,CH046,59,female,negative,negative,11.8,N,no
+HH035,CH047,19,M,neg,positive,13.6,No,yes
+HH045,CH048,58,F,,not done,12,Yes,no
+HH092,CH049,32,F,negative,negative,15,99,no
+HH082,CH050,46,female,neg,positive,12,Y,Yes
+HH069,CH051,37,99,negative,not done,10.9,,NA
+HH032,CH052,54,F,negative,negative,10.6,Yes,no
+HH053,CH053,47,female,negative,negative,9.3,99,No
+HH099,CH054,14,male,negative,negative,10.6,N,No
+HH051,CH055,13,99,pos,not done,12.9,No,No
+HH048,CH056,12,F,negative,negative,10.5,Y,NA
+HH038,CH057,6,99,negative,not done,8.4,,yes
+HH086,CH058,51,M,negative,positive,12.1,,NA
+HH077,CH059,36,male,negative,,10.3,Y,Yes
+HH066,CH060,21,male,pos,negative,9.5,Yes,yes
+HH019,CH061,47,99,negative,negative,11.1,,NA
+HH074,CH062,54,F,negative,not done,7.3,N,yes
+HH039,CH063,46,female,positive,,10.2,No,No
+HH016,CH064,24,99,negative,negative,9.3,99,Yes
+HH078,CH065,16,male,negative,negative,12.6,99,yes
+HH089,CH066,15,99,negative,negative,7.5,No,No
+HH037,CH067,37,M,neg,negative,7.1,,yes
+HH080,CH068,18,female,positive,negative,10.9,N,No
+HH023,CH069,48,F,negative,negative,13.9,N,yes
+HH053,CH070,43,99,negative,positive,10.2,,No
+HH008,CH071,33,M,negative,,9.9,99,no
+HH035,CH072,56,female,negative,positive,11.5,No,yes
+HH046,CH073,59,99,negative,negative,9.3,99,No
+HH072,CH074,27,F,neg,positive,10.5,99,no
+HH040,CH075,51,F,neg,negative,13.7,,Yes
+HH012,CH076,48,male,negative,negative,11.4,99,No
+HH070,CH077,50,99,negative,,11.9,,yes
+HH068,CH078,22,male,negative,not done,8.9,99,NA
+HH029,CH079,30,F,negative,negative,11.1,Y,NA
+HH023,CH080,31,99,negative,negative,11.4,Y,No
+HH076,CH081,6,F,neg,negative,10,Yes,yes
+HH091,CH082,21,male,negative,negative,11.1,,No
+HH038,CH083,38,F,negative,negative,10.4,N,no
+HH091,CH084,24,male,negative,not done,10.2,Yes,Yes
+HH010,CH085,31,F,negative,,9.1,N,NA
+HH070,CH086,36,M,negative,negative,11.1,99,NA
+HH054,CH087,55,female,neg,negative,13.4,No,Yes
+HH033,CH088,37,female,pos,not done,24,Yes,yes
+HH073,CH089,8,M,negative,negative,10.7,99,Yes
+HH068,CH090,36,female,negative,,10.1,Y,No
+HH095,CH091,29,F,positive,negative,12.6,Y,Yes
+HH045,CH092,27,M,negative,positive,13.4,Yes,NA
+HH004,CH093,52,female,pos,negative,13.4,No,NA
+HH077,CH094,35,M,negative,negative,10.9,,yes
+HH057,CH095,50,female,positive,negative,7.5,,no
+HH034,CH096,36,female,negative,negative,10.6,,no
+HH089,CH097,34,M,negative,negative,10.3,Y,yes
+HH040,CH098,16,F,negative,positive,11,Y,NA
+HH048,CH099,14,M,negative,not done,13.9,No,yes
+HH011,CH100,39,female,negative,positive,11.4,Yes,NA
+HH061,CH101,29,99,negative,negative,9.5,N,yes
+HH023,CH102,6,female,positive,negative,11.8,No,Yes
+HH041,CH103,52,F,negative,negative,10,,No
+HH007,CH104,45,female,neg,not done,11.2,,yes
+HH081,CH105,58,male,neg,,12.4,N,Yes
+HH001,CH106,33,male,negative,negative,7.7,Yes,no
+HH057,CH107,51,male,neg,negative,14,Yes,no
+HH050,CH108,41,99,neg,negative,13.7,Y,NA
+HH030,CH109,9,99,negative,negative,10.7,No,no
+HH024,CH110,40,99,neg,negative,12.5,,Yes
+HH008,CH111,31,99,neg,,13,No,no
+HH071,CH112,35,F,positive,negative,14.3,Yes,NA
+HH087,CH113,25,female,negative,positive,12.8,N,NA
+HH075,CH114,42,male,negative,not done,11.7,No,NA
+HH037,CH115,27,female,negative,negative,10.7,Yes,No
+HH042,CH116,31,M,negative,positive,12,,no
+HH056,CH117,13,99,negative,,8.4,Yes,Yes
+HH100,CH118,29,male,negative,negative,9.3,N,NA
+HH019,CH119,7,M,negative,negative,11.7,Y,Yes
+HH062,CH120,42,F,neg,negative,11,Y,No
+HH065,CH121,24,99,negative,negative,12.4,N,No
+HH037,CH122,16,99,pos,negative,11.7,99,yes
+HH077,CH123,39,female,positive,negative,8.9,Y,NA
+HH028,CH124,33,male,negative,not done,10,99,NA
+HH049,CH125,25,99,pos,,10.2,N,No
+HH024,CH126,37,female,neg,negative,10,No,no
+HH022,CH127,29,M,negative,negative,10.2,Yes,NA
+HH068,CH128,9,F,negative,negative,9.1,,No
+HH084,CH129,10,99,negative,negative,10.6,No,NA
+HH070,CH130,48,male,missing,not done,8.4,Yes,No
+HH057,CH131,6,female,pos,negative,15.2,N,No
+HH034,CH132,18,M,pos,positive,9.7,,No
+HH022,CH133,6,M,positive,negative,16.2,No,no
+HH071,CH134,16,M,negative,not done,10.9,Y,NA
+HH044,CH135,41,female,negative,negative,11.7,Yes,NA
+HH008,CH136,14,99,negative,negative,6.4,99,NA
+HH039,CH137,21,99,negative,negative,7.5,N,no
+HH039,CH138,34,99,negative,negative,9.8,Y,Yes
+HH094,CH139,33,99,negative,not done,11,,yes
+HH059,CH140,40,99,negative,negative,9.8,99,yes
+HH006,CH141,37,male,negative,,10.1,Y,yes
+HH072,CH142,23,F,negative,negative,8.4,,no
+HH091,CH143,27,F,negative,negative,10,,Yes
+HH027,CH144,34,99,negative,negative,9.5,Yes,Yes
+HH016,CH145,13,99,positive,,9.7,N,NA
+HH030,CH146,15,F,negative,positive,14.8,99,Yes
+HH022,CH147,48,male,negative,negative,13.4,Yes,Yes
+HH054,CH148,10,male,negative,negative,10.2,Yes,NA
+HH013,CH149,50,99,neg,negative,14,N,Yes
+HH018,CH150,12,99,positive,not done,9.3,99,yes
+HH095,CH151,30,99,negative,negative,13,99,no
+HH016,CH152,26,female,neg,negative,12.4,Yes,No
+HH043,CH153,35,F,negative,not done,11.8,,yes
+HH001,CH154,52,M,negative,negative,12.8,No,Yes
+HH021,CH155,9,female,negative,negative,11.8,N,Yes
+HH003,CH156,29,F,pos,not done,11.9,Yes,No
+HH029,CH157,39,99,negative,negative,8.6,Yes,yes
+HH087,CH158,6,M,negative,not done,14,Y,NA
+HH027,CH159,11,99,neg,,13.8,,no
+HH038,CH160,23,male,negative,negative,10.1,No,NA
